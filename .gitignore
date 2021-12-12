@@ -1,2 +1,6 @@
 target
 *.pkg.tar.*
+aur/pkg
+aur/src
+aur/pkg/*
+aur/src/*
